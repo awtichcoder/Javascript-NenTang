@@ -55,7 +55,7 @@ const readFileData = () => {
 })()
 console.log(`--------------------------------`)
 
-const getListPokemon = async (limit = 10) => {
+const getListPokemon = async (limit) => {
   try {
     const res = await fetch(
       `https://pokeapi.co/api/v2/pokemon?limit=${limit}`,
@@ -70,4 +70,4 @@ const getListPokemon = async (limit = 10) => {
   }
 }
 //
-getListPokemon(10)
+getListPokemon(5)
