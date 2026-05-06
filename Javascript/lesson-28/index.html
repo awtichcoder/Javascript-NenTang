@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Validate</title>
+    <script src="./validate.js" defer></script>
+    <style>
+      .error {
+        color: red;
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <form id="loginForm" novalidate>
+      <input
+        type="email"
+        id="email"
+        placeholder="ixisdifdufu"
+        autocomplete="off"
+      />
+      <div class="error error-email"></div>
+      <input
+        type="password"
+        id="password"
+        placeholder="sdsds"
+        autocomplete="off"
+      />
+      <div class="error error-password"></div>
+      <button type="submit">login</button>
+    </form>
+  </body>
+</html>
