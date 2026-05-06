@@ -1,4 +1,4 @@
-# 💛 JavaScript-Foundations (Nền Tảng)
+# 💛 Javascript-NenTang
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
@@ -30,3 +30,4 @@ To run this project locally, ensure you have the following versions installed:
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/awtichcoder/Javascript-NenTang.git
+   ```
