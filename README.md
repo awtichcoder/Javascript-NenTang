@@ -29,4 +29,4 @@ To run this project locally, ensure you have the following versions installed:
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/awtichcoder/Javascript-NenTang.git](https://github.com/awtichcoder/Javascript-NenTang.git)
+   git clone https://github.com/awtichcoder/Javascript-NenTang.git
